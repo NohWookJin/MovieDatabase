@@ -27,7 +27,7 @@ Vercel Serverless Functions가 정상적으로 동작하기 위해 `package.json
   // ...
 }
 ```
-
+ 
 __2023년 4월 23일__
 
 영화 검색 후 'View More..' 버튼이 보일 때, 다른 영화를 새롭게 검색해서 결과를 출력할 수 없는 경우에 'View More..' 버튼이 사라지지 않는 버그가 있습니다.  
