@@ -17,7 +17,7 @@ __2023년 4월 27일__
 
 Vercel Serverless Functions가 정상적으로 동작하기 위해 `package.json` 파일의 `type` 옵션을 요구하게 되었습니다.  
 `package.json` 파일에 다음과 같이 `"type": "module"` 옵션을 추가하세요.
-
+ 
 ```json
 {
   // ...
