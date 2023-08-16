@@ -13,8 +13,6 @@ OMDb API를 활용해 VanillaJS 영화 검색 애플리케이션을 만들어봅
 
 ### ❗공지사항❗
 
-__2023년 4월 27일__
-
 Vercel Serverless Functions가 정상적으로 동작하기 위해 `package.json` 파일의 `type` 옵션을 요구하게 되었습니다.  
 `package.json` 파일에 다음과 같이 `"type": "module"` 옵션을 추가하세요.
  
