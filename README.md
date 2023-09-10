@@ -1,7 +1,4 @@
-# Employee DB
-자바스크립트 사진 관리 서비스(과제) - https://github.com/KDT1-FE/Y_FE_JAVASCRIPT_PICTURE/tree/KDT0_NohWookJin
-
-# MovieDatabase
+# MovieDatabase : JS => TS
 OMDB API - THE OPEN MOVIE DATABASE
 
 # Movie App (TypeScript ver.)
